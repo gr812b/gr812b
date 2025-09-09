@@ -1,3 +1,7 @@
+# Hello, I'm [Kai](https://github.com/gr812b)!
+
+I'm a software developer recently graduated from [McMaster University](https://www.eng.mcmaster.ca/). I love to solve problems and create unique solutions.
+
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
